@@ -1,0 +1,7 @@
+Username: hello
+Password: hello
+First Name: hello
+Last Name: hello
+Initial Deposit: $100
+Total Balance: $100
+Account Status: Silver

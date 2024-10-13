@@ -1,0 +1,7 @@
+Username: alishba
+Password: alishba
+First Name: Alishba
+Last Name: Adil
+Initial Deposit: $100
+Total Balance: $8990.0
+Account Status: Silver

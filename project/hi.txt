@@ -1,0 +1,7 @@
+Username: hi
+Password: hi
+First Name: Alishba
+Last Name: Adil
+Initial Deposit: $150
+Total Balance: $10090.0
+Account Status: Gold

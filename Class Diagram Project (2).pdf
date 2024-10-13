@@ -1,0 +1,1182 @@
+%PDF-1.4
+%‚„œ”
+
+1 0 obj
+   << 
+      /Title ()
+      /Author ()
+      /Subject ()
+      /Keywords ()
+      /Creator (FreeHEP Graphics2D Driver)
+      /Producer (com.horstmann.violet.framework.util.PDFGraphics2DStringWriter Revision)
+      /CreationDate (D:20240325235300-04'00')
+      /ModDate (D:20240325235300-04'00')
+      /Trapped /False
+   >>
+endobj
+
+2 0 obj
+   << 
+      /Type /Catalog
+      /Pages 3 0 R
+      /Outlines 4 0 R
+      /PageMode /UseOutlines
+      /ViewerPreferences 5 0 R
+      /OpenAction [6 0 R /Fit]
+   >>
+endobj
+
+5 0 obj
+   << 
+      /FitWindow true
+      /CenterWindow false
+   >>
+endobj
+
+6 0 obj
+   << 
+      /Parent 3 0 R
+      /Type /Page
+      /Contents 7 0 R
+   >>
+endobj
+
+7 0 obj
+   << 
+      /Length 8 0 R
+   >>
+stream
+.97315 0.0000 0.0000 -.97315 20.671 1470.0 cm
+q
+0.0000 0.0000 m
+1540.0 0.0000 l
+1540.0 1490.0 l
+0.0000 1490.0 l
+h
+W
+n
+q
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+Q
+q
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+0.0000 0.0000 m
+0.0000 1490.0 l
+1540.0 1490.0 l
+1540.0 0.0000 l
+h
+W
+n
+1.0000 0.0000 0.0000 1.0000 -0.0000 -30.000 cm
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+0.0000 30.000 m
+1541.0 30.000 l
+1541.0 1521.0 l
+0.0000 1521.0 l
+0.0000 30.000 l
+h
+f
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+660.00 1400.0 m
+880.00 1400.0 l
+880.00 1520.0 l
+660.00 1520.0 l
+660.00 1400.0 l
+h
+f
+/Alpha1 gs
+.74902 .74902 .74902 rg
+.74902 .74902 .74902 RG
+660.00 1400.0 m
+880.00 1400.0 l
+880.00 1520.0 l
+660.00 1520.0 l
+660.00 1400.0 l
+h
+S
+660.50 1440.5 m
+880.50 1440.5 l
+S
+660.50 1460.5 m
+880.50 1460.5 l
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 660.00 1400.0 cm
+q
+1.0000 0.0000 0.0000 -1.0000 101.00 25.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(Silver) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -660.00 -1400.0 cm
+1.0000 0.0000 0.0000 1.0000 660.00 1440.0 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 15.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+() Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -660.00 -1440.0 cm
+1.0000 0.0000 0.0000 1.0000 660.00 1460.0 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 27.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ calculateFinalAmount\(double\): double ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 43.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ Silver\(status: String\) ) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -660.00 -1460.0 cm
+1.0000 0.0000 0.0000 1.0000 -0.0000 -0.0000 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+0.0000 1360.0 m
+220.00 1360.0 l
+220.00 1480.0 l
+0.0000 1480.0 l
+0.0000 1360.0 l
+h
+f
+/Alpha1 gs
+.74902 .74902 .74902 rg
+.74902 .74902 .74902 RG
+0.0000 1360.0 m
+220.00 1360.0 l
+220.00 1480.0 l
+0.0000 1480.0 l
+0.0000 1360.0 l
+h
+S
+.50000 1400.5 m
+220.50 1400.5 l
+S
+.50000 1420.5 m
+220.50 1420.5 l
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 1360.0 cm
+q
+1.0000 0.0000 0.0000 -1.0000 93.000 25.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(Platinum) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -0.0000 -1360.0 cm
+1.0000 0.0000 0.0000 1.0000 0.0000 1400.0 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 15.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+() Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -0.0000 -1400.0 cm
+1.0000 0.0000 0.0000 1.0000 0.0000 1420.0 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 27.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ calculateFinalAmount\(double\): double ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 43.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ Platinum\(status: String\) ) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -0.0000 -1420.0 cm
+1.0000 0.0000 0.0000 1.0000 -0.0000 -0.0000 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+1320.0 1340.0 m
+1540.0 1340.0 l
+1540.0 1460.0 l
+1320.0 1460.0 l
+1320.0 1340.0 l
+h
+f
+/Alpha1 gs
+.74902 .74902 .74902 rg
+.74902 .74902 .74902 RG
+1320.0 1340.0 m
+1540.0 1340.0 l
+1540.0 1460.0 l
+1320.0 1460.0 l
+1320.0 1340.0 l
+h
+S
+1320.5 1380.5 m
+1540.5 1380.5 l
+S
+1320.5 1400.5 m
+1540.5 1400.5 l
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 1320.0 1340.0 cm
+q
+1.0000 0.0000 0.0000 -1.0000 104.00 25.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(Gold) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -1320.0 -1340.0 cm
+1.0000 0.0000 0.0000 1.0000 1320.0 1380.0 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 15.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+() Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -1320.0 -1380.0 cm
+1.0000 0.0000 0.0000 1.0000 1320.0 1400.0 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 27.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ calculateFinalAmount\(double\): double ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 43.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ Gold\(status: String\) ) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -1320.0 -1400.0 cm
+1.0000 0.0000 0.0000 1.0000 -0.0000 -0.0000 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+300.00 1040.0 m
+1220.0 1040.0 l
+1220.0 1260.0 l
+300.00 1260.0 l
+300.00 1040.0 l
+h
+f
+/Alpha1 gs
+.74902 .74902 .74902 rg
+.74902 .74902 .74902 RG
+300.00 1040.0 m
+1220.0 1040.0 l
+1220.0 1260.0 l
+300.00 1260.0 l
+300.00 1040.0 l
+h
+S
+300.50 1080.5 m
+1220.5 1080.5 l
+S
+300.50 1120.5 m
+1220.5 1120.5 l
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 300.00 1040.0 cm
+q
+1.0000 0.0000 0.0000 -1.0000 440.00 25.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(Customer) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -300.00 -1040.0 cm
+1.0000 0.0000 0.0000 1.0000 300.00 1080.0 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 25.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+( - status: String   ) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -300.00 -1080.0 cm
+1.0000 0.0000 0.0000 1.0000 300.00 1120.0 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 27.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ Customer\(status: String\)    ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 43.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ calculateTotalCartAmount\(shoesSelected: boolean, headphonesSelected: boolean, laptopSelected: boolean, iphoneSelected: boolean, bagSelected: boolean\): double                ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 59.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+( + getFinalAmount\( totalCartAmount: double \): double               |) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 75.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ displayErrorAlert\( message: String\): void ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 91.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ updateBalance\(amount: double\): void   ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 107.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ getTotalBalance\(\): double) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 123.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ updateStatus\( username: String, totalBalance: double\): void                 ) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -300.00 -1120.0 cm
+1.0000 0.0000 0.0000 1.0000 -0.0000 -0.0000 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+940.00 690.00 m
+1320.0 690.00 l
+1320.0 910.00 l
+940.00 910.00 l
+940.00 690.00 l
+h
+f
+/Alpha1 gs
+.74902 .74902 .74902 rg
+.74902 .74902 .74902 RG
+940.00 690.00 m
+1320.0 690.00 l
+1320.0 910.00 l
+940.00 910.00 l
+940.00 690.00 l
+h
+S
+940.50 730.50 m
+1320.5 730.50 l
+S
+940.50 810.50 m
+1320.5 810.50 l
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 940.00 690.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 140.00 25.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(<<abstract>>Person) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -940.00 -690.00 cm
+1.0000 0.0000 0.0000 1.0000 940.00 730.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 29.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(-username: String              ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 45.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(- password: String              ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 61.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(- role: String) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -940.00 -730.00 cm
+1.0000 0.0000 0.0000 1.0000 940.00 810.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 31.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ Person\(username: String, password:String, role:String\)                    ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 47.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ getUsername\(\): String        ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 63.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ getPassword\(\): String     ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 79.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ getRole\(\): String  ) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -940.00 -810.00 cm
+1.0000 0.0000 0.0000 1.0000 -0.0000 -0.0000 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+200.00 650.00 m
+640.00 650.00 l
+640.00 910.00 l
+200.00 910.00 l
+200.00 650.00 l
+h
+f
+/Alpha1 gs
+.74902 .74902 .74902 rg
+.74902 .74902 .74902 RG
+200.00 650.00 m
+640.00 650.00 l
+640.00 910.00 l
+200.00 910.00 l
+200.00 650.00 l
+h
+S
+200.50 690.50 m
+640.50 690.50 l
+S
+200.50 750.50 m
+640.50 750.50 l
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 200.00 650.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 203.00 25.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(Manager) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -200.00 -650.00 cm
+1.0000 0.0000 0.0000 1.0000 200.00 690.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 27.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+( - username: String              ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 43.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(- password: String  ) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -200.00 -690.00 cm
+1.0000 0.0000 0.0000 1.0000 200.00 750.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 29.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ Manager\(username: String, password: String\)            ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 45.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ addCustomer\(customer: Customer\): void              ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 61.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ deleteCustomer\(customer: Customer\): void          ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 77.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ authenticateManager\(username: String, password: String\): boolean                    ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 93.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ getUsername\(\): String         ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 109.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ getPassword\(\): String         ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 125.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ setUsername\(username: String\) : void               ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 141.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ setPassword\(password: String\)  : void                   ) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -200.00 -750.00 cm
+1.0000 0.0000 0.0000 1.0000 -0.0000 -0.0000 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+200.00 30.000 m
+1420.0 30.000 l
+1420.0 510.00 l
+200.00 510.00 l
+200.00 30.000 l
+h
+f
+/Alpha1 gs
+.74902 .74902 .74902 rg
+.74902 .74902 .74902 RG
+200.00 30.000 m
+1420.0 30.000 l
+1420.0 510.00 l
+200.00 510.00 l
+200.00 30.000 l
+h
+S
+200.50 70.500 m
+1420.5 70.500 l
+S
+200.50 170.50 m
+1420.5 170.50 l
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 200.00 30.000 cm
+q
+1.0000 0.0000 0.0000 -1.0000 585.00 25.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+( BankMain  ) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -200.00 -30.000 cm
+1.0000 0.0000 0.0000 1.0000 200.00 70.000 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 23.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(- primaryStage: Stage          ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 39.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(- statusLabel: Label           ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 55.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(- accountListView: ListView    ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 71.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(- accountList: List            ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 87.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+( - manager: Manager             ) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -200.00 -70.000 cm
+1.0000 0.0000 0.0000 1.0000 200.00 170.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 23.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+ start\(primaryStage: Stage\):  void                          ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 39.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+( - handleLogin\(username: String, password: String, role: String\): void                 ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 55.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+( - authenticateCustomer\(username:String, password: String\): boolean                       ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 71.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(- showManagerOptions\(\): void   ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 87.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(- addCustomer\(\): void          ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 103.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+( - isUsernameTaken\(username: String\): boolean              ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 119.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(- createCustomer\(username: String, password: String, firstName: String, lastName: String, initialDeposit: String\): void                          |) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 135.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+( - deleteCustomer\(\): void       ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 151.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(- showCustomerOptions\(username: String\): void                 ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 167.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(- depositMoney\(username: String\):void                          ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 183.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(- withdrawMoney\(username: String\): void                 ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 199.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(- getTotalBalance\(username: String\): double               ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 215.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+( - getStatus\(username: String\): String                        ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 231.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(- updateStatus\(username: String, newBalance: double\): void    ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 247.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(- updateBalance\(username: String, amount: double\): void         ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 263.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(- showOnlinePurchaseScreen\(username:String\): void                 ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 279.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(- confirmPurchase\(username: String, finalAmount: double, fee: double, shoesCheckBox: CheckBox, headphonesCheckBox: CheckBox, laptopCheckBox: CheckBox, iphoneCheckBox: CheckBox, bagCheckBox: CheckBox\): void            ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 295.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(- calculateTotalCartAmount\(shoesSelected: boolean, headphonesSelected: boolean, laptopSelected: boolean, iphoneSelected: boolean, bagSelected: boolean\): double             ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 311.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(- calculateFee\(status: String\):double       ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 327.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+( + main\(args: String[]\): void   ) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -200.00 -170.00 cm
+1.0000 0.0000 0.0000 1.0000 -0.0000 -0.0000 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1 J
+1 j
+[ 3.0000 3.0000] 0.0000 d
+810.00 270.00 m
+810.00 270.00 l
+S
+2 J
+0 j
+10.000 M
+[] 0.0000 d
+[ 3.0000 3.0000] 0.0000 d
+420.00 650.00 m
+420.00 580.00 l
+444.00 580.00 l
+444.00 510.00 l
+S
+[] 0.0000 d
+S
+425.00 641.34 m
+420.00 650.00 l
+415.00 641.34 l
+420.00 650.00 l
+425.00 641.34 l
+h
+S
+[ 3.0000 3.0000] 0.0000 d
+760.00 1040.0 m
+790.00 510.00 l
+688.00 510.00 l
+S
+[] 0.0000 d
+S
+765.48 1031.6 m
+760.00 1040.0 l
+755.50 1031.1 l
+760.00 1040.0 l
+765.48 1031.6 l
+h
+S
+300.00 1150.0 m
+260.00 1150.0 l
+260.00 1420.0 l
+220.00 1420.0 l
+S
+S
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+300.00 1150.0 m
+291.34 1145.0 l
+291.34 1155.0 l
+h
+f
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+300.00 1150.0 m
+291.34 1145.0 l
+291.34 1155.0 l
+h
+S
+760.00 1260.0 m
+760.00 1400.0 l
+S
+S
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+760.00 1260.0 m
+755.00 1268.7 l
+765.00 1268.7 l
+h
+f
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+760.00 1260.0 m
+755.00 1268.7 l
+765.00 1268.7 l
+h
+S
+1220.0 1186.7 m
+1270.0 1186.7 l
+1270.0 1400.0 l
+1320.0 1400.0 l
+S
+S
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+1220.0 1186.7 m
+1228.7 1191.7 l
+1228.7 1181.7 l
+h
+f
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1220.0 1186.7 m
+1228.7 1191.7 l
+1228.7 1181.7 l
+h
+S
+[ 3.0000 3.0000] 0.0000 d
+1130.0 690.00 m
+1140.0 650.00 l
+1176.0 510.00 l
+S
+[] 0.0000 d
+S
+1137.0 682.81 m
+1130.0 690.00 l
+1127.2 680.39 l
+1130.0 690.00 l
+1137.0 682.81 l
+h
+S
+940.00 800.00 m
+790.00 800.00 l
+790.00 780.00 l
+640.00 780.00 l
+S
+S
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+940.00 800.00 m
+931.34 795.00 l
+931.34 805.00 l
+h
+f
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+940.00 800.00 m
+931.34 795.00 l
+931.34 805.00 l
+h
+S
+1130.0 910.00 m
+1260.0 990.00 l
+1220.0 1113.3 l
+S
+S
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+1130.0 910.00 m
+1134.8 918.80 l
+1140.0 910.28 l
+h
+f
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1130.0 910.00 m
+1134.8 918.80 l
+1140.0 910.28 l
+h
+S
+Q
+Q
+
+endstream
+endobj
+
+8 0 obj
+   18845
+endobj
+
+9 0 obj
+   << 
+      /Type /Font
+      /Subtype /Type1
+      /Name /F1
+      /BaseFont /Helvetica-Bold
+      /Encoding 10 0 R
+   >>
+endobj
+
+11 0 obj
+   << 
+      /Type /Font
+      /Subtype /Type1
+      /Name /F2
+      /BaseFont /Helvetica
+      /Encoding 10 0 R
+   >>
+endobj
+
+10 0 obj
+   << 
+      /Type /Encoding
+      /Differences [0 /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde /space /exclam /quotedbl /numbersign /dollar /percent /ampersand /quotesingle /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash /zero /one /two /three /four /five /six /seven /eight /nine /colon /semicolon /less /equal /greater /question /at /A /B /C /D /E /F /G /H /I /J /K /L /M /N /O /P /Q /R /S /T /U /V /W /X /Y /Z /bracketleft /backslash /bracketright /asciicircum /underscore /grave /a /b /c /d /e /f /g /h /i /j /k /l /m /n /o /p /q /r /s /t /u /v /w /x /y /z /braceleft /bar /braceright /asciitilde /.notdef /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron /.notdef /Euro /exclamdown /cent /sterling /currency /yen /brokenbar /section /dieresis /copyright /ordfeminine /guillemotleft /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu /paragraph /periodcentered /cedilla /onesuperior /ordmasculine /guillemotright /onequarter /onehalf /threequarters /questiondown /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis]
+   >>
+endobj
+
+3 0 obj
+   << 
+      /Parent null
+      /Type /Pages
+      /MediaBox [0.0000 0.0000 1540.0 1490.0]
+      /Resources 12 0 R
+      /Kids [6 0 R]
+      /Count 1
+   >>
+endobj
+
+13 0 obj
+   [/PDF /Text /ImageC]
+endobj
+
+14 0 obj
+   << 
+      /F1 9 0 R
+      /F2 11 0 R
+   >>
+endobj
+
+15 0 obj
+   << 
+      /Alpha1
+      << 
+         /ca 1.0000
+         /CA 1.0000
+         /BM /Normal
+         /AIS false
+      >>
+   >>
+endobj
+
+12 0 obj
+   << 
+      /ProcSet 13 0 R
+      /Font 14 0 R
+      /ExtGState 15 0 R
+   >>
+endobj
+
+4 0 obj
+   << 
+      /Type /Outlines
+      /First 16 0 R
+      /Last 16 0 R
+   >>
+endobj
+
+16 0 obj
+   << 
+      /Parent 4 0 R
+      /Title (Page 1 \(untitled\))
+      /Prev null
+      /Next null
+      /Dest [6 0 R /Fit]
+   >>
+endobj
+
+xref
+0 17
+0000000000 65535 f
+0000000019 00000 n
+0000000373 00000 n
+0000022139 00000 n
+0000022696 00000 n
+0000000566 00000 n
+0000000650 00000 n
+0000000747 00000 n
+0000019666 00000 n
+0000019695 00000 n
+0000019991 00000 n
+0000019845 00000 n
+0000022593 00000 n
+0000022322 00000 n
+0000022367 00000 n
+0000022437 00000 n
+0000022794 00000 n
+
+trailer
+<< 
+   /Size 16
+   /Root 2 0 R
+   /Info 1 0 R
+>>
+
+startxref
+22948
+
+%%EOF
